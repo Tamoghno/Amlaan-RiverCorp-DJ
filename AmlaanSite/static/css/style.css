@@ -132,7 +132,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 #topbar .contact-info i {
-  color: #cc1616;
+  color: rgb(10 88 202 / 50%);
   line-height: 0;
   margin-right: 5px;
 }
@@ -140,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 15px;
 }
 #topbar .social-links a {
-  color: rgba(255, 0, 0, 0.916);
+  color: rgb(10 88 202 / 50%);
   padding: 4px 12px;
   display: inline-block;
   line-height: 1px;
@@ -373,7 +373,6 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: calc(100vh - 110px);
-  /* background: url("/static/images/ship.jpg") top center; */
   background-size: cover;
   position: relative;
 }
@@ -1025,7 +1024,7 @@ section {
   margin-bottom: 15px;
   background: #191919;
   color: #fff;
-  border-top: 4px solid #cc1616;
+  border-top: 4px solid rgb(10 88 202 / 50%);
   text-align: center;
   padding: 30px 20px;
 }
@@ -1078,7 +1077,7 @@ section {
 }
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #ed5b5b;
+  color: rgb(10 88 202 / 50%);
   font-size: 18px;
   line-height: 1;
 }
@@ -1120,7 +1119,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #cc1616;
+  background: rgb(10 88 202 / 50%);
   color: #fff;
   transition: 0.3s;
   border-radius: 4;

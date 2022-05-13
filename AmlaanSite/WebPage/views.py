@@ -1,5 +1,4 @@
 from django.shortcuts import render
-from sklearn.cluster import mean_shift
 from WebPage.models import Contact
 from django.contrib import messages
 
